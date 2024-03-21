@@ -6,6 +6,7 @@
 The Farm Supply Chain Management project aims to streamline and enhance the efficiency of the agricultural product supply chain. By leveraging Hyperledger Fabric blockchain technology, this project facilitates transparent, secure, and traceable transactions from farm to consumer. The system enables farmers, distributors, and retailers to seamlessly track the journey of agricultural products, ensuring quality, authenticity, and timely delivery.
 
 **Key Features:**
+
 Blockchain Integration: The project utilizes Hyperledger Fabric, a permissioned blockchain framework, to maintain an immutable ledger of transactions. This ensures data integrity, security, and transparency throughout the supply chain.
 
 Smart Contracts: Smart contracts are deployed to automate and enforce business logic within the supply chain network. These contracts define rules and actions governing the transfer of product ownership between stakeholders.
